@@ -1,0 +1,27 @@
+
+	.container{
+		text-align: center;
+		border:solid 1px;
+    border-radius:20px;
+		width: 500px;
+		height: 650px;
+		margin-top: 5%;
+	}
+	.form{
+		margin-top: 3vh;
+
+	}
+	.container2{
+		margin: auto;
+		width: 320px;
+		height: 360px;
+		border:solid 1px;
+    border-radius:20px;
+	}
+	#tabela{
+		border-radius: 20px;
+		width: 320px; 
+		height: 360px;
+	}
+
+
